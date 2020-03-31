@@ -3,3 +3,4 @@
 - Switzerland: same
 - France: check back on April 1, see if number of daily new cases has passed 3,900
 - Santa Clara: By April 3, number of cases will be decreasing. The number of cases reached the 80s by March 20, but hasn't reached 90 since then.
+- NY: seems like it started stagnating on the 26th, so will be decreasing by 9
